@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeniceadebo
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning css/html
+- 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on AI engineering
 - 📫 How to reach me adeniceadebo@gmail.com/+2348133728653
 - 😄 Pronouns: Mister
