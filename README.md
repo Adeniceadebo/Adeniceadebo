@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI engineering
 - 📫 How to reach me adeniceadebo@gmail.com/+2348133728653
 - 😄 Pronouns: Mister
-- ⚡ Fun fact: I'm open to learning anything tech
+- ⚡ Fun fact: I'm enthusiastic about learning anything tech
 
 <!---
 Adeniceadebo/Adeniceadebo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
